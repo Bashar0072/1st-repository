@@ -111,3 +111,29 @@
     font-weight: 700;
     text-transform: uppercase;
 }
+
+footer{
+    margin-left: 170px;
+    max-width: 70%;
+    background: #070211da;
+}
+.foot{
+    margin-top: 100px;
+    margin-left: 150px;
+    color: #f50606;
+    display: flex;
+    justify-content: space-around;
+}
+.foot_text{
+    margin-top: 50px;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    width: 45%;
+}
+.icon{
+    display: inline-block;
+    margin-left: 530px;
+    margin-top: 100px;
+}
